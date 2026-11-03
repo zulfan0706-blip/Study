@@ -1,5 +1,5 @@
-Study resolution
 Learn IoT!
 Learn machine learning!
 Lean YOLO!
 Learn ROS2
+Gas
